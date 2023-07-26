@@ -1,0 +1,9 @@
+{
+  "name": "Wii U eShop July 2014",
+  "description": "The Wii U/3DS eShop theme of July 2014. Pulled from YouTube: https://youtu.be/VoE_e8EYKew. Theme composed by Nintendo.",
+  "author": "X4X5",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
