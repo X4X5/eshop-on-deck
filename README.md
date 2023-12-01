@@ -11,7 +11,7 @@ Recently, the policy was just changed so that anything pertaining to video games
 # So.. how do I install them?
 Great question! And I'm here with an answer!
 1. Turn on your Steam Deck and go to Desktop Mode
-2. Go to your web browser of choice and (download the zip file of this repository)[https://ibb.co/w4FMMS8] (or the repository you're looking at)
+2. Go to your web browser of choice and [download the zip file of this repository](https://ibb.co/w4FMMS8) (or the repository you're looking at)
 3. Unzip the file somewhere where you'll remember where it is, then go to that directory.
 4. Now, the easiest way to go about doing this is to keep two tabs open. You can do this easily by putting your mouse over a folder directory (Home, for example), pressing right trigger, and then clicking the "Open in New Tab" button to do so. Do that.
 5. In this new tab, go to /home/deck/homebrew/sounds. It should look like this.
