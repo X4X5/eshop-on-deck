@@ -1,0 +1,9 @@
+{
+  "name": "Wii U Download Management",
+  "description": "This theme was used for the Download Management app on the Wii U. Theme composed by Nintendo.",
+  "author": "X4X5",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
