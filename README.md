@@ -5,8 +5,8 @@ I might also add other eShop themes as well once I'm done with this, and if we g
 
 
 
-# Changes to the AudioLoader Policy
-Recently, the policy was just changed so that anything pertaining to video games/consoles/ect are not allowed on AudioLoader. Which means, if you want to use these themes/sounds on your handheld device, you'll have to manually install them yourself, as I am no longer allowed to submit them to AudioLoader. With that in mind, I'll keep up my repositories, because I don't want to throw away work that I've already done, and a DMCA is honestly the least of my worries.
+# Changes to the AudioLoader (as of 09/14/2024)
+Music is no longer officially supported by the devs of AudioLoader. It hasn't gone away, as existing music will remain, but no future music will be allowed there. So, if you want new music, you'll have to make that package yourself or look for others who still make music on sites like these to add. And if you go that route, you'll have to manuall install them yourself, of which I have instructions below on how to do that. This repository will soon be where all of my submissions will go, as they were all taken down when they changed their policy. As for making new themes, I might do that again if I feel like it. But I would't hold your breath.
 
 # So.. how do I install them?
 Great question! And I'm here with an answer!
